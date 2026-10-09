@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+  padding-top: 80px;
+}
+
+h1,span {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+button {
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 23px;
+  cursor: pointer;
+}
+#start {
+  background-color: green;
+}
+
+#stop{
+  background-color: red;
+}
+#reset {
+  background-color: blue;
+}
